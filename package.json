@@ -1,0 +1,20 @@
+{
+  "name": "parse-utc-date",
+  "version": "1.0.3",
+  "description": "A utility to handle parsing and formatting of UTC date inputs. Provides methods to convert dates to ISO string format, Unix timestamps, and local time, along with customizable date formatting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-im-haz3l/parse-utc-date.git"
+  },
+  "author": "Duy Khanh Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-im-haz3l/parse-utc-date/issues"
+  },
+  "homepage": "https://github.com/hi-im-haz3l/parse-utc-date#readme"
+}
+
